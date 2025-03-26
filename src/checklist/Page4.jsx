@@ -103,7 +103,7 @@ const styles = {
     width: "100%",
     padding: "10px",
     backgroundColor: "#6c1f7d",
-    color: "#666",
+    color: "white",
     fontSize: "16px",
     border: "none",
     borderRadius: "5px",
